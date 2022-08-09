@@ -1,0 +1,17 @@
+{
+    "responses": {
+        "bot": "Creo que la mayoría de los bots no saben qué es eso...",
+        "measure": "**%username%** es %percentNumber%% gay"
+    },
+
+    "command": {
+        "name": "quetangayes",
+        "description": "calcula que tan gay alguien es (100% confiable).",
+        "options": [
+            {
+                "name": "usuario",
+                "description": "la persona cual quieres medir con tu muy muy confibale y no-guiada-por-rng gaydar"
+            }
+        ]
+    }
+}

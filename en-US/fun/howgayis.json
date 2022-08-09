@@ -1,0 +1,17 @@
+{
+    "responses": {
+        "bot": "I'm pretty sure most bots don't even know the definition of that...",
+        "measure": "**%username%** is %percentNumber%% gay"
+    },
+
+    "command": {
+        "name": "howgayis",
+        "description": "see how gay someone is (trustworthy 100).",
+        "options": [
+            {
+                "name": "user",
+                "description": "the person you want to measure with your very very trustworthy and totally non-rng gaydar"
+            }
+        ]
+    }
+}
