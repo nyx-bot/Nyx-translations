@@ -1,0 +1,12 @@
+{
+    "command": {
+        "name": "clapspeak",
+        "description": "TURN :clap: YOUR :clap: MESSAGE :clap: INTO :clap: THIS",
+        "options": [
+            {
+                "name": "message",
+                "description": "The message to convert"
+            }
+        ]
+    }
+}

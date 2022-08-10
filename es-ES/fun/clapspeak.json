@@ -1,0 +1,12 @@
+{
+    "command": {
+        "name": "clapspeak",
+        "description": "CONVIERTE :clap: TU :clap: MENSAJE :clap: EN :clap: ESTE",
+        "options": [
+            {
+                "name": "mensaje",
+                "description": "El mensaje que se va a convertir."
+            }
+        ]
+    }
+}
