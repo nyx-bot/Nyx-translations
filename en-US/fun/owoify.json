@@ -1,0 +1,18 @@
+{
+    "responses": {
+        "too-long": "I cannot send messages above the character limit of 2,000!",
+        "translation-too-long": "The owo-ified result is above the character limit of 2,000!",
+        "success": "Here's your owo-ified message!"
+    },
+
+    "command": {
+        "name": "owoify",
+        "description": "Translates your message to owo-speak!",
+        "options": [
+            {
+                "name": "message",
+                "description": "The message to translate."
+            }
+        ]
+    }
+}
