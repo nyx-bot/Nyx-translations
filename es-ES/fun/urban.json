@@ -1,0 +1,32 @@
+{
+    "responses": {
+        "main": {
+            "continue": "Seguir Leyendo",
+            "view": "Ver en Urban Dictionary",
+            "examples": "Ejemplo(s)",
+            "author": "Autor"
+        },
+
+        "buttons": {
+            "previous": "Entrada anterior",
+            "next": "Siguiente Entrada"
+        },
+
+        "messages": {
+            "one-result": "Encontré %num% resultado para %query%",
+            "more-than-one-result": "He encontrado %num% resultados para %query%",
+            "no-definition": "No hay una definición para %query%"
+        }
+    },
+
+    "command": {
+        "name": "urban",
+        "description": "Buscar cualquier cosa en Urban Dictionary!",
+        "options": [
+            {
+                "name": "consulta",
+                "description": "El término que desea buscar"
+            }
+        ]
+    }
+}
