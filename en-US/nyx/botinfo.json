@@ -1,0 +1,39 @@
+{
+    "responses": {
+        "in-embed": {
+            "stats": "Nyx's Stats",
+            "shard-number": "%server% is on shard #%shard%",
+
+            "servers": "Servers",
+            "users": "Users",
+            "version": "Version",
+            "discord-js-version": "Discord.js version",
+    
+            "events": {
+                "events": "Events",
+                "per-second": "%num%/s",
+                "per-hour": "%num%/h"
+            },
+    
+            "music": {
+                "playing": "Music playing in",
+                "one-server": "%num% server",
+                "more-than-one-server": "%num% servers"
+            },
+    
+            "this-shard": "%num% on this shard",
+            "all-shards": "%num% across all shards"
+        },
+
+        "buttons": {
+            "website": "Nyx's Website",
+            "invite": "Invite Nyx to your server!",
+            "join": "Join Nyx's Shrine!"
+        }
+    },
+    
+    "command": {
+        "name": "botinfo",
+        "description": "Shows you general information of Nyx!"
+    }
+}
