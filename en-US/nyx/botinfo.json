@@ -22,7 +22,14 @@
             },
     
             "this-shard": "%num% on this shard",
-            "all-shards": "%num% across all shards"
+            "all-shards": "%num% across all shards",
+
+            "powered-by": {
+                "title": "Powered by Linode!",
+                "advertisement": "Get $100 in credit for free when you sign up for Linode using my referral!",
+                "referral": "When you sign up with my referral and pay your first $25, it supports Nyx as well!",
+                "read-more": "Read more about it on Linode's website!"
+            }
         },
 
         "buttons": {
