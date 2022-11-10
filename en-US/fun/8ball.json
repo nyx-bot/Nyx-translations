@@ -22,6 +22,8 @@
         "no."
     ],
 
+    "defaultResponse": "Give me a question to answer!",
+
     "command": {
         "name": "8ball",
         "description": "the most trustworthy system to ask a question.",
