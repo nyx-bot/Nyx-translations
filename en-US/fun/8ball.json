@@ -30,7 +30,8 @@
         "options": [
             {
                 "name": "query",
-                "description": "What would you like to ask the \"Most Trustworthy System?\""
+                "description": "What would you like to ask the \"Most Trustworthy System?\"",
+                "required": true
             }
         ]
     }

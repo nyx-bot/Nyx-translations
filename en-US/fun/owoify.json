@@ -11,7 +11,8 @@
         "options": [
             {
                 "name": "message",
-                "description": "The message to translate."
+                "description": "The message to translate.",
+                "required": true
             }
         ]
     }

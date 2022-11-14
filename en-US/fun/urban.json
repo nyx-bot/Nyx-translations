@@ -25,7 +25,8 @@
         "options": [
             {
                 "name": "query",
-                "description": "The term you want to search for"
+                "description": "The term you want to search for",
+                "required": true
             }
         ]
     }

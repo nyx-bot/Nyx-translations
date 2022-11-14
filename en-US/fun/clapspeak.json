@@ -5,7 +5,8 @@
         "options": [
             {
                 "name": "message",
-                "description": "The message to convert"
+                "description": "The message to convert",
+                "required": true
             }
         ]
     }
