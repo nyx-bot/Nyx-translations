@@ -1,0 +1,12 @@
+{
+    "pingTitle": "Ping",
+    "pinging": "Pinging...",
+    "complete": "Done!",
+    "discordPing": "Discord Latency",
+    "timeToRespond": "Time to Respond",
+
+    "command": {
+        "name": "ping",
+        "description": "Get the amount of time it takes for Nyx to respond!"
+    }
+}
